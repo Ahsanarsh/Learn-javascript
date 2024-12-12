@@ -20,8 +20,17 @@
 // var institute_name = "SAYLANI";
 // console.log(institute_name);
 
-// var myname = "Ahsan";
-// myname = "Ahsan Ali";
-// console.log(myname);
+// var myname = "Ahsan"; ......
+// myname = "Ahsan Ali"; ........... REINITIALIZATION..
+// console.log(myname); .......
 
+// variable ...
 
+// variable did't start with any Special charc except "Under scrore _" or "dollar $"
+// in bt can't give any space
+
+var result;
+
+result = "A+";
+
+console.log(result);
