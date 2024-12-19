@@ -90,7 +90,7 @@
 
 var userAge = +prompt("Enter Your Age")
 
-if (userAge === 18){
+if (userAge >= 18){
     console.log("Allow")
 }
 else {
