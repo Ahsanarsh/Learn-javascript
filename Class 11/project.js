@@ -23,9 +23,3 @@ for (let i = 0; i < paperMarks; i++) {
       "<br/>"
   );
 }
-
-for (let i = 0; i < paperMarks; i++) {
-  totalNo = 0;
-  totalno += paperMarks[i];
-  alert(`${totalNo}`);
-}
