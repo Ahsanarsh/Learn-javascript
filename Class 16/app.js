@@ -29,4 +29,3 @@
 // conver num into string
 // console.log(String(num));
 // console.log(typeof num.toString());
-
