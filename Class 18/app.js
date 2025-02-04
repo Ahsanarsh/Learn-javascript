@@ -20,9 +20,7 @@
 // console.log(getMilliseconds);
 // let now = new Date().getTime();
 
-
 //        ...............................Age calculator using date method..............
-
 
 // let userDOB = prompt("Enter your dob", "01 Jan 1990");
 
@@ -38,6 +36,17 @@
 // var age = difference / (1000 * 60 * 60 * 24 * 365);
 // console.log(Math.floor(age));
 
-
 //       ..................... Functions.................
 
+// let currentDate = new Date().getDate();
+// console.log("currentDate", currentDate);
+
+// let saleDate = new Date("15 feb 2025").getDate();
+// console.log("saleDate", saleDate);
+
+// let difference = saleDate - currentDate;
+// console.log(difference);
+
+// if (difference == -difference) {
+//   console.log(difference - 0);
+// }
