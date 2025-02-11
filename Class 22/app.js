@@ -15,13 +15,13 @@
 //   console.log(password.value);
 // }
 
-function setValue() {
-  //   console.log("setValue");
+// function setValue() {
+//   //   console.log("setValue");
 
-  let userName = document.getElementById("userName");
-  let password = document.getElementById("password");
+//   let userName = document.getElementById("userName");
+//   let password = document.getElementById("password");
 
-  userName.value = "JaffarAman";
-  password.value = "123456";
-  
-}
+//   userName.value = "JaffarAman";
+//   password.value = "123456";
+
+// }
