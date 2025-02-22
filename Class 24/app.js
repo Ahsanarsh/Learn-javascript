@@ -32,6 +32,11 @@
 //   parra.innerHTML = "para value";
 // }
 
-function foo() {
-  console.log("fooo ");
-}
+// function foo() {
+//   console.log("fooo ");
+// }
+
+// function setParra() {
+//   let parra = document.getElementById("parra");
+//   parra.innerHTML = "set para graph";
+// }
