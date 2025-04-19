@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.input-container {
+  width: 50%;
+  /* background-color: green; */
+}
+input {
+  padding: 10px 0;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+.input-container > button {
+  width: 20%;
+  text-transform: ;
+}
